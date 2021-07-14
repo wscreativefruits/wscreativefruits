@@ -72,18 +72,21 @@ button:hover {
 
 
 
-
-
-.wrapper-links {
-	align-items: center;
-	display: inline-grid;
+.wrapper
+{
 	height: 100%;
 	width: 100%;
 	position: relative;
 	background-image: url(wscreative.jpg);
   	background-repeat: no-repeat;
 	background-size: cover;
-	opacity: .8;
+	opacity: .8;	
+}
+
+.wrapper-links {
+	align-items: center;
+	display: inline-grid;
+
 }
 
 .group2 a{
